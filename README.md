@@ -2,6 +2,9 @@
 
 A promotional website for **L&D Wings**, a fictional unli chicken-wings restaurant in Quezon City. It uses the **Blue Flame** theme: royal blue and midnight navy, with buffalo orange and honey gold accents.
 
+## Live website
+**https://aleserleynes2023.github.io/ld-wings/** (hosted free on GitHub Pages from the `main` branch)
+
 ## How to open it
 Open `index.html` in a web browser. You need an internet connection because the photos, fonts, Bootstrap script and map load online.
 
